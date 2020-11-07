@@ -1,2 +1,1 @@
-# IoT
-Created with CodeSandbox
+# GitHub sample Repository for GitHub HandsOn.
