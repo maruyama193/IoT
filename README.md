@@ -1,1 +1,1 @@
-# GitHub sample Repository for GitHub HandsOn.
+# IoT 勉強用
